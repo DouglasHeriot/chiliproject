@@ -54,3 +54,9 @@ a, a:link, a:visited {
 #sidebar a, #sidebar a:link, #sidebar a:visited {
 	color:#3e83b3;
 }
+
+
+
+/* selected element */
+#wrapper .context-menu-selection { background-color:#FFCE5E !important; color:#000 !important; }
+#wrapper .context-menu-selection:hover { background-color:#FFCE5E !important; color:#000  !important; }
