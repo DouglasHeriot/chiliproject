@@ -54,7 +54,7 @@ end
 
 platforms :mri, :mingw do
   group :mysql2 do
-    gem "mysql2", "~> 0.2.7"
+    gem "mysql2", "< 0.3"
   end
 
   group :postgres do
